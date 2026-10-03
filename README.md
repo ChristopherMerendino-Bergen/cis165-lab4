@@ -29,12 +29,12 @@ To compile and run these programs from the terminal, use the following commands:
 5. Output all three variables to the console with labels.
 
 ## Test Tables
-
-| Program and test           | Values used                  | Expected results               | Actual results                  | Match/Correction|
-| Average — assigned values  | 28, 32, 37, 24, 33           | Sum: 154, Avg: 30.8            | Sum: 154, Avg: 30.8             | Match |
-| Average — changed values   | 28.5, 32.1, 37.0, 24.2, 33.3 | Sum: 155.1, Avg: 31.02         | Sum: 155.1, Avg: 31.02          | Match |
-| Ocean — assigned rate      | 1.5                          | 5yr: 7.5, 7yr: 10.5, 10yr: 15  | 5yr: 7.5, 7yr: 10.5, 10yr: 15   | Match |
-| Ocean — changed rate       | 2.5                          | 5yr: 12.5, 7yr: 17.5, 10yr: 25 | 5yr: 12.5, 7yr: 17.5, 10yr: 25  | Match |
+| Program and test | Values used | Expected results | Actual results | Match or correction |
+| :--- | :--- | :--- | :--- | :--- |
+| Average — assigned values | 28, 32, 37, 24, 33 | Sum: 154, Avg: 30.8 | Sum: 154, Avg: 30.8 | Match |
+| Average — changed values | 28.5, 32.1, 37.0, 24.2, 33.3 | Sum: 155.1, Avg: 31.02 | Sum: 155.1, Avg: 31.02 | Match |
+| Ocean — assigned rate | 1.5 | 5yr: 7.5, 7yr: 10.5, 10yr: 15 | 5yr: 7.5, 7yr: 10.5, 10yr: 15 | Match |
+| Ocean — changed rate | 2.5 | 5yr: 12.5, 7yr: 17.5, 10yr: 25 | 5yr: 12.5, 7yr: 17.5, 10yr: 25 | Match |
 
 * Note: I have restored the original values to both programs and re-ran them to confirm they still output the assigned data.*
   
